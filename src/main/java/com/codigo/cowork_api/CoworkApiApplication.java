@@ -1,13 +1,13 @@
-package com.codigo.sistema_reservas_sala;
+package com.codigo.cowork_api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SistemaReservasSalaApplication {
+public class CoworkApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SistemaReservasSalaApplication.class, args);
+		SpringApplication.run(CoworkApiApplication.class, args);
 	}
 
 }

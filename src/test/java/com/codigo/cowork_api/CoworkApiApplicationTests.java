@@ -1,10 +1,10 @@
-package com.codigo.sistema_reservas_sala;
+package com.codigo.cowork_api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SistemaReservasSalaApplicationTests {
+class CoworkApiApplicationTests {
 
 	@Test
 	void contextLoads() {
